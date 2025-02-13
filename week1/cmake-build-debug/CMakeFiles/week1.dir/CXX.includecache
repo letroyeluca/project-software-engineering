@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lucaletroye/Documents/PROJECTEN/spe/week1/main.cpp
+iostream
+-
+tinyxml.h
+/Users/lucaletroye/Documents/PROJECTEN/spe/week1/tinyxml.h
+
+/Users/lucaletroye/Documents/PROJECTEN/spe/week1/tinystr.h
+assert.h
+-
+string.h
+-
+
+/Users/lucaletroye/Documents/PROJECTEN/spe/week1/tinyxml.h
+ctype.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+string
+-
+iostream
+-
+sstream
+-
+tinystr.h
+/Users/lucaletroye/Documents/PROJECTEN/spe/week1/tinystr.h
+
