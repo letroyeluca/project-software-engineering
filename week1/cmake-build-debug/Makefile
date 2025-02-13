@@ -129,30 +129,6 @@ week1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/week1.dir/build.make CMakeFiles/week1.dir/build
 .PHONY : week1/fast
 
-CD.o: CD.cpp.o
-.PHONY : CD.o
-
-# target to build an object file
-CD.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/week1.dir/build.make CMakeFiles/week1.dir/CD.cpp.o
-.PHONY : CD.cpp.o
-
-CD.i: CD.cpp.i
-.PHONY : CD.i
-
-# target to preprocess a source file
-CD.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/week1.dir/build.make CMakeFiles/week1.dir/CD.cpp.i
-.PHONY : CD.cpp.i
-
-CD.s: CD.cpp.s
-.PHONY : CD.s
-
-# target to generate assembly for a file
-CD.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/week1.dir/build.make CMakeFiles/week1.dir/CD.cpp.s
-.PHONY : CD.cpp.s
-
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -282,9 +258,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... week1"
-	@echo "... CD.o"
-	@echo "... CD.i"
-	@echo "... CD.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

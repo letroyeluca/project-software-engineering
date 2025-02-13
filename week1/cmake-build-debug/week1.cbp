@@ -78,12 +78,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/lucaletroye/Documents/PROJECTEN/spe/week1/CD.cpp">
-			<Option target="week1"/>
-		</Unit>
-		<Unit filename="/Users/lucaletroye/Documents/PROJECTEN/spe/week1/CD.h">
-			<Option target="week1"/>
-		</Unit>
 		<Unit filename="/Users/lucaletroye/Documents/PROJECTEN/spe/week1/main.cpp">
 			<Option target="week1"/>
 		</Unit>

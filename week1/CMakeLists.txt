@@ -8,5 +8,4 @@ add_executable(week1 main.cpp
         tinyxml.cpp
         tinystr.cpp
         tinyxmlerror.cpp
-        CD.cpp
-        CD.h)
+)

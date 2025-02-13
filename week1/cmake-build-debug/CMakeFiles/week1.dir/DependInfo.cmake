@@ -8,7 +8,6 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/lucaletroye/Documents/PROJECTEN/spe/week1/CD.cpp" "/Users/lucaletroye/Documents/PROJECTEN/spe/week1/cmake-build-debug/CMakeFiles/week1.dir/CD.cpp.o"
   "/Users/lucaletroye/Documents/PROJECTEN/spe/week1/main.cpp" "/Users/lucaletroye/Documents/PROJECTEN/spe/week1/cmake-build-debug/CMakeFiles/week1.dir/main.cpp.o"
   "/Users/lucaletroye/Documents/PROJECTEN/spe/week1/tinystr.cpp" "/Users/lucaletroye/Documents/PROJECTEN/spe/week1/cmake-build-debug/CMakeFiles/week1.dir/tinystr.cpp.o"
   "/Users/lucaletroye/Documents/PROJECTEN/spe/week1/tinyxml.cpp" "/Users/lucaletroye/Documents/PROJECTEN/spe/week1/cmake-build-debug/CMakeFiles/week1.dir/tinyxml.cpp.o"

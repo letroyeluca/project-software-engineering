@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/week1.dir/CD.cpp.o"
   "CMakeFiles/week1.dir/main.cpp.o"
   "CMakeFiles/week1.dir/tinystr.cpp.o"
   "CMakeFiles/week1.dir/tinyxml.cpp.o"
